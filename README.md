@@ -30,3 +30,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushpateldeveloper&show_icons=true&locale=en" alt="ayushpateldeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushpateldeveloper&" alt="ayushpateldeveloper" /></p>
+
+<div align="center">
+  <h2>🐍 Meet my hungry friend 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ayushpateldeveloper/Ayushpateldeveloper/output/github-contribution-grid-snake-dark.svg" />
+  
+  <br/><br/><br/>
+</div>
