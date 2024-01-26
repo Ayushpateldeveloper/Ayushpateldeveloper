@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PHP,ReactJs,Bootstrap ,Ajax,Jquery**
 
-- 👨‍💻 All of my projects are available at [https://ayushpateldeveloper.github.io/Mini-Projects-AyuPatel/](https://ayushpateldeveloper.github.io/Mini-Projects-AyuPatel/)
+- 👨‍💻 All of my projects are available at [Mini Projects Using HTML , CSS , JAVSCRIPT ....](https://ayushpateldeveloper.github.io/Mini-Projects-AyuPatel/)
 
 - 💬 Ask me about **React,HTML,CSS,Javascript,PHP,MERN Stack**
 
